@@ -6,7 +6,7 @@
  * @return test_values 
  */
 
-test_values searchContact(char name)
+void searchContact(char name)
 {
   system("cls");
         do
