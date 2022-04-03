@@ -1,5 +1,5 @@
 Build :
-    gcc Contact_Management_System.h AddContact.c SearchContact.c ViewList.c EditContact.c DeleteContact.c Welcome.c 
+    gcc ContactManage.c
 
 Test : 
     gcc test.c ContactManage.c unity/unity.c -Iunity   
