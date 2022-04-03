@@ -5,7 +5,7 @@
  * @return test_values 
  */
 
-test_values addContact(char name[20],long ph,char address[20],char email[30])
+void addContact(char name[20],long ph,char address[20],char email[30])
 {
   system("cls");
         fp=fopen("contact.dll","a");
