@@ -7,7 +7,7 @@
  * @return test_values 
  */
 
-test_values editContact(char name[20],long ph,char address[20],char email[30])
+void editContact(char name[20],long ph,char address[20],char email[30])
 {
   system("cls");
 
