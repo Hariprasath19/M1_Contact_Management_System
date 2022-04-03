@@ -6,7 +6,7 @@
  * @return test_values 
  */
 
-test_values viewContact()
+void viewContact()
 {
   system("cls");
         printf("\n\t\t================================\n\t\t\tLIST OF CONTACTS\n\t\t================================\n\nName\t\tPhone.No\t    Address\t\tE-mail ID.\n=================================================================\n\n");
