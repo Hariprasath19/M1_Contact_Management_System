@@ -2,7 +2,7 @@
 /**
  * @brief function to find the details about a contact
  * 
- * 
+ * @param name
  * @return test_values 
  */
 
