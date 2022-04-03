@@ -67,6 +67,6 @@ test_values editContact(char name[20],long ph,char address[20],char email[30]);
  * 
  * @return test_values 
  */
-test_values viewList(void);
+test_values viewContact(void);
 
 #endif
