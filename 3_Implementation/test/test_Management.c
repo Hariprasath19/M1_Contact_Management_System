@@ -11,7 +11,7 @@ void test_addContact(void){
     TEST_ASSERT_EQUAL(pass,addContact("hari", 1234567890, "abc colony","hari@123.com"));
 }
 
-void test_viewList(void){
+void test_viewContact(void){
     TEST_ASSERT_EQUAL(pass,viewList());
 }
 
