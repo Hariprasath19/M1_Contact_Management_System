@@ -7,7 +7,7 @@
  * @return test_values 
  */
 
-test_values deleteContact(char name)
+void deleteContact(char name)
 {
   system("cls");
 
