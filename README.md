@@ -2,7 +2,7 @@
 
 Folder	                      |                                        Description                              |
 ------------------------------|---------------------------------------------------------------------------------|
-0_Certificates	              |                           All the certificates are provided here                |
+0_Certificateshttps://github.com/Hariprasath19/M1_Contact_Management_System/tree/main/0_Certificates	              |                           All the certificates are provided here                |
 1_Requirements	              |                           Documents detailing requirements                      |
 2_Architecture	              |                           Documents specifying design details                   |
 3_Implementation	            |                           All code and documentation                            |
